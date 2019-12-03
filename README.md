@@ -1,4 +1,4 @@
-d # Computer Vision with PyTorch
+# Computer Vision with PyTorch
 Materials for PyData 2019 Tutorial
 
 This repository contains materials for learning about computer vision. 
